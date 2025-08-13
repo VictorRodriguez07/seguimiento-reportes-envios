@@ -1,4 +1,4 @@
-# Plataforma de Gestión de Materiales
+# Plataforma de Gestión de envios de Materiales
 
 Sistema modular integrado al CRM de la empresa para la **gestión eficiente de envíos de materiales en eventos empresariales**.  
 Resuelve la falta de trazabilidad y control en el envío de materiales a ferias, exposiciones y otros eventos, permitiendo un registro preciso y seguimiento en tiempo real.

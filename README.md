@@ -28,5 +28,24 @@ Resuelve la falta de trazabilidad y control en el envío de materiales a ferias,
 ---
 
 ## Capturas de pantalla
-```markdown
-![Gestión de materiales](images/tabla-materiales.png)
+
+### 1. Listado de envíos
+![Listado de envíos](images/listadoDeEnvios.png)
+
+### 2. PDF del reporte de envío
+![PDF reporte de envio](images/pdfEnvioReporte.png)
+
+### 3. Registrar reporte de envío
+![Registrar reporte de envio](images/reportarEnvio.png)
+
+### 4. Listado de materiales gráficos
+![Listado de materiales gráficos](images/listarMaterialesGraficos.png)
+
+### 5. Registrar materiales gráficos
+![Registrar materiales gráficos](images/RegistrarMaterialGrafico.png)
+
+---
+## 👤 Autor
+
+**Victor Manuelle Rodriguez Mosquera**  
+Correo: rodriguezvictormanuelle@gmail.com

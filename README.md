@@ -45,7 +45,7 @@ Resuelve la falta de trazabilidad y control en el envío de materiales a ferias,
 ![Registrar materiales gráficos](images/RegistrarMaterialGrafico.png)
 
 ---
-## 👤 Autor
+## Autor
 
 **Victor Manuelle Rodriguez Mosquera**  
 Correo: rodriguezvictormanuelle@gmail.com
